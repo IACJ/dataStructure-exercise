@@ -1,0 +1,5 @@
+﻿  1_A.cpp
+c:\users\apple1\documents\visual studio 2015\projects\data_structure\1_a_reverses\1_a.cpp(50): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\apple1\documents\visual studio 2015\projects\data_structure\1_a_reverses\1_a.cpp(54): warning C4018: “<”: 有符号/无符号不匹配
+  1_A_reverses.vcxproj -> C:\Users\apple1\Documents\Visual Studio 2015\Projects\data_structure\1_A_reverses\Debug\1_A_reverses.exe
+  1_A_reverses.vcxproj -> C:\Users\apple1\Documents\Visual Studio 2015\Projects\data_structure\1_A_reverses\Debug\1_A_reverses.pdb (Full PDB)
