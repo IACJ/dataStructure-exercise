@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2_1_BST", "2_1_BST\2_1_BST.vcxproj", "{F62F1B79-090A-4A12-8235-C9902FD0458E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F62F1B79-090A-4A12-8235-C9902FD0458E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F62F1B79-090A-4A12-8235-C9902FD0458E}.Debug|Win32.Build.0 = Debug|Win32
+		{F62F1B79-090A-4A12-8235-C9902FD0458E}.Release|Win32.ActiveCfg = Release|Win32
+		{F62F1B79-090A-4A12-8235-C9902FD0458E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
