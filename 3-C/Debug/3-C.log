@@ -1,0 +1,5 @@
+﻿  3-C.cpp
+c:\users\apple1\documents\visual studio 2015\projects\data_structure\3-c\3-c.cpp(19): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\apple1\documents\visual studio 2015\projects\data_structure\3-c\3-c.cpp(31): warning C4018: “<”: 有符号/无符号不匹配
+  3-C.vcxproj -> C:\Users\apple1\Documents\Visual Studio 2015\Projects\data_structure\3-C\Debug\3-C.exe
+  3-C.vcxproj -> C:\Users\apple1\Documents\Visual Studio 2015\Projects\data_structure\3-C\Debug\3-C.pdb (Full PDB)

@@ -22,3 +22,12 @@ OJ网址 ： http://222.201.146.216/JudgeOnline/contest.php?cid=1412&homework=1
 * 2_1 : BST
 * 2_2 : Tree Balance
 * 2_3 : Print a Tree
+
+##day3 :
+OJ网址 ： http://222.201.146.216/JudgeOnline/contest.php?cid=1430&homework=1
+
+排序
+
+* 3_A : Quicksort Partition
+* 3_B : 成绩排序
+* 3_C : 仅字母排序
