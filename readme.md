@@ -31,3 +31,12 @@ OJ网址 ： http://222.201.146.216/JudgeOnline/contest.php?cid=1430&homework=1
 * 3_A : Quicksort Partition
 * 3_B : 成绩排序
 * 3_C : 仅字母排序
+
+##day4 :
+OJ网址 ： http://222.201.146.216/JudgeOnline/contest.php?cid=1436&homework=1
+
+排序、BST、递归/动规
+
+* 4_A : 数列排序
+* 4_B : 层次遍历二叉查找树
+* 4_C : 超级楼梯
