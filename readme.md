@@ -40,3 +40,19 @@ OJ网址 ： http://222.201.146.216/JudgeOnline/contest.php?cid=1436&homework=1
 * 4_A : 数列排序
 * 4_B : 层次遍历二叉查找树
 * 4_C : 超级楼梯
+
+
+##day5 :
+OJ网址 ： http://222.201.146.216/JudgeOnline/contest.php?cid=1444&homework=1
+
+* 5_A : HashTable 1
+* 5_B : HashTable 2
+* 5_C : HashTable 3
+
+
+##day6 :
+OJ网址 ： http://222.201.146.216/JudgeOnline/contest.php?cid=1458&homework=1
+
+* 6_A : 2-3 tree insertion
+* 6_B : 查找第k大
+* 6_C : 堆排序

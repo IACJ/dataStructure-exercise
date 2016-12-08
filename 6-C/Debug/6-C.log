@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\apple1\documents\visual studio 2015\projects\data_structure\6-c\main.cpp(82): warning C4101: “c”: 未引用的局部变量
+  6-C.vcxproj -> C:\Users\apple1\Documents\Visual Studio 2015\Projects\data_structure\6-C\Debug\6-C.exe
+  6-C.vcxproj -> C:\Users\apple1\Documents\Visual Studio 2015\Projects\data_structure\6-C\Debug\6-C.pdb (Full PDB)
