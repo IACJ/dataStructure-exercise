@@ -64,3 +64,10 @@ OJ网址 ： http://222.201.146.216/JudgeOnline/contest.php?cid=1467&homework=1
 * 7_B : Breadth First Search
 * 7_C : 字符串过滤
 * 7_D : 单链表结点调换
+
+##day8 :
+OJ网址 ： http://222.201.146.216/JudgeOnline/contest.php?cid=1469
+
+* 8_A : Maximum Indegree
+* 8_B : Toposort
+* 8_C : The Shortest Path
